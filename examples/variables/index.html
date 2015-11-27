@@ -7,21 +7,22 @@
     <style>
       :root
       {
-        --main-color: #060;
-        --secondary-color: #666;
+        --main-color: red;
+        --secondary-color: gray;
 
         --draft: 'Working Draft';
 
         --padding: 50px 100px;
 
         --bad-size: 20;
+
         --size1: 20px;
         --size2: 30px;
       }
 
       h1
       {
-        /*--main-color: #f00;*/
+        --main-color: green;
         --size1-plus-size2: calc(var(--size1) + var(--size2));
       }
 
@@ -33,7 +34,7 @@
         top: var(--size1-plus-size2); /* valid */
 
 
-        color: var(--main-color, #f00); /* fallback arg */
+        color: var(--main-color, orange); /* fallback arg */
         padding: var(--padding);
 
         margin: 0;
