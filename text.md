@@ -151,7 +151,6 @@ http://www.w3.org/TR/2015/WD-css-inline-3-20150917/images/A-wraparound.png
 ---
 
 ###CSS Custom Properties for Cascading Variables Module Level 1 (Working draft)
-```примеры```
 
 ---
 
