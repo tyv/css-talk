@@ -116,7 +116,6 @@
 ---
 
 ### CSS Shapes, CSS Masking
-```примеры```
 
 ---
 
